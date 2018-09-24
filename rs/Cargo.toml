@@ -1,0 +1,6 @@
+[package]
+name = "dplib"
+version = "0.0.0"
+authors = ["Renée Kooi <renee@kooi.me>"]
+
+[dependencies]
